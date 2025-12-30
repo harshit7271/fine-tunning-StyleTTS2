@@ -1,0 +1,580 @@
+1
+00:00:00,000 --> 00:00:11,400
+step in this learning formula is practice. The well-known Sanskrit saying
+
+2
+00:00:11,400 --> 00:00:17,720
+karat karat abhyas ke, jad mati hot sujan translates to practice makes perfect
+
+3
+00:00:17,720 --> 00:00:23,720
+emphasizing that repeated practice leads to mastery. The best way to practice is
+
+4
+00:00:23,720 --> 00:00:27,780
+by solving past year papers and take mock tests. These tools helps you
+
+5
+00:00:27,780 --> 00:00:33,900
+identify mistakes you might make on the exam day. It is better to make the learn
+
+6
+00:00:33,900 --> 00:00:38,940
+from mistakes in a mock test than to make them during the actual exam.
+
+7
+00:00:38,940 --> 00:00:44,420
+Practicing this way helps you spot silly mistakes and understand how to manage
+
+8
+00:00:44,420 --> 00:00:49,940
+your time efficiently under exam conditions.
+
+9
+00:00:49,940 --> 00:00:55,440
+Moving ahead, just like pre-votes exam prepare you for final exam by
+
+10
+00:00:55,440 --> 00:01:00,120
+highlighting errors to avoid. Regular practice is essential for mastering what
+
+11
+00:01:00,120 --> 00:01:05,440
+you have learned. Do not just take mock test, analyze your mistakes
+
+12
+00:01:05,440 --> 00:01:10,400
+and note them down in a separate notebook. This way you can review and
+
+13
+00:01:10,400 --> 00:01:16,400
+avoid these mistakes before exams. Now quiz station, every chapter includes
+
+14
+00:01:16,400 --> 00:01:21,680
+quiz stations with practice questions. These help you test to
+
+15
+00:01:21,680 --> 00:01:28,680
+understand the concepts right after you study a topic.
+
+16
+00:01:28,680 --> 00:01:41,680
+Now I will read the acknowledgment.
+
+17
+00:01:41,680 --> 00:01:50,320
+I begin by bowing down to the mighty Lord Ganesh, the revered
+
+18
+00:01:50,320 --> 00:01:55,800
+Vighna Harta. His divine grace has endured the smooth complexion of this
+
+19
+00:01:55,800 --> 00:02:01,440
+book, clearing all obstacles from my path. I bow down to Mahasaraswati, to my
+
+20
+00:02:01,440 --> 00:02:06,520
+ancestors and special thanks to my family. The creation of this book is the
+
+21
+00:02:06,520 --> 00:02:10,920
+result of many people standing by my side, helping, motivating and guiding me.
+
+22
+00:02:10,920 --> 00:02:15,320
+Their unwavering support and encouragement have been instrumental in
+
+23
+00:02:15,320 --> 00:02:25,360
+bringing this work to life. I am deeply grateful to Shri Sardar Girdhar
+
+24
+00:02:25,360 --> 00:02:38,520
+ji, late Shri Ram ji. One of the most rewarding career
+
+25
+00:02:38,520 --> 00:02:43,480
+opportunities after clearing the UGC net exam is becoming an assistant
+
+26
+00:02:43,480 --> 00:02:48,200
+professor in colleges and universities. The table below highlights the pay scale
+
+27
+00:02:48,200 --> 00:02:54,320
+structure for various academic positions, showcasing the financial benefits of
+
+28
+00:02:54,320 --> 00:03:00,240
+pursuing this career path. In the academic pay scale, the table given on the left
+
+29
+00:03:00,240 --> 00:03:05,640
+side, the level indicates the hierarchical position of a faculty member in college
+
+30
+00:03:05,640 --> 00:03:10,040
+and universities. This level is determined based on a combination of
+
+31
+00:03:10,480 --> 00:03:14,720
+factors including years of experience, academic qualification and the number of
+
+32
+00:03:14,720 --> 00:03:19,840
+research papers published. When an individual clears UGC net, they become
+
+33
+00:03:19,840 --> 00:03:24,600
+eligible for the position of assistant professor, starting typically at the
+
+34
+00:03:24,600 --> 00:03:30,200
+level 10. With consistent performance, research, contribution and experience,
+
+35
+00:03:30,200 --> 00:03:36,040
+they can progress to higher levels. In the addition of basic salary given in
+
+36
+00:03:36,040 --> 00:03:41,560
+the table above, academic professionals are entitled to HRA that is house rent
+
+37
+00:03:41,560 --> 00:03:46,560
+allowance, TA that is travel allowance and GP that is grade pay which enhance
+
+38
+00:03:46,560 --> 00:03:52,920
+their overall compensation. This financial stability combined with the
+
+39
+00:03:52,920 --> 00:03:58,720
+prestige of teaching makes academia a higher attractive
+
+40
+00:03:59,080 --> 00:04:03,720
+career option post UGC net.
+
+41
+00:04:07,480 --> 00:04:12,520
+Eligibility in the case of special degree certificate programs. If you have
+
+42
+00:04:12,520 --> 00:04:17,680
+a postgraduate diploma or certificate from an Indian or foreign university, you
+
+43
+00:04:17,680 --> 00:04:21,480
+need to check if it's equivalent to the master's degree from a recognized
+
+44
+00:04:21,480 --> 00:04:27,600
+university. For this, contact the Association of Indian Universities, AIU
+
+45
+00:04:27,600 --> 00:04:35,200
+in New Delhi. Law students should check with the Bar Council of India. Candidates
+
+46
+00:04:35,200 --> 00:04:44,360
+with a four-year or eight-year semester batch bachelor degrees need at least
+
+47
+00:04:44,360 --> 00:04:52,640
+75 marks, 75% marks or equivalent grade. There is a 5% relaxation for the Dalits.
+
+48
+00:04:52,760 --> 00:04:58,280
+Net eligibility. If you qualify for the net with a four-year bachelor's degree,
+
+49
+00:04:58,280 --> 00:05:02,720
+you are eligible for the junior research fellowship that is JRF and PhD admission
+
+50
+00:05:02,720 --> 00:05:08,080
+but not for appointment as an assistant professor. Final year students
+
+51
+00:05:08,080 --> 00:05:13,480
+for a four-year bachelor degree.
+
+52
+00:05:14,000 --> 00:05:26,640
+Candidates should select their UGC net paper to subject based on their postgraduate
+
+53
+00:05:26,640 --> 00:05:30,840
+specialization. For example, a student with an MA in political science should
+
+54
+00:05:30,840 --> 00:05:35,320
+choose political science as their paper to subject. If a candidate's postgraduate
+
+55
+00:05:35,320 --> 00:05:41,400
+degree is in subject not listed by the UGC, they may choose a closely related
+
+56
+00:05:41,480 --> 00:05:46,240
+subject from the available option.
+
+57
+00:05:46,240 --> 00:05:54,120
+Study timetable for covering UGC net paper 1 syllabus in just 33 days.
+
+58
+00:05:54,120 --> 00:06:01,480
+In this book, the 10 units of the UGC net paper 1 syllabus have been meticulously
+
+59
+00:06:01,480 --> 00:06:07,040
+divided into 33 chapters. This structured approach allows you to focus on
+
+60
+00:06:07,040 --> 00:06:11,720
+completing one chapter per day enabling you to finish the entire syllabus in
+
+61
+00:06:11,720 --> 00:06:16,600
+just 33 days. The reason behind this approach is to prevent students from
+
+62
+00:06:16,600 --> 00:06:21,320
+feeling overwhelmed by a single large unit. By breaking down the syllabus into
+
+63
+00:06:21,320 --> 00:06:26,520
+smaller manageable chapters, we help you cover the material gradually and
+
+64
+00:06:26,520 --> 00:06:32,240
+systematically reducing stress and making the study process more manageable.
+
+65
+00:06:32,240 --> 00:06:38,960
+This method ensures a study progression through the syllabus which maintaining a sense of
+
+66
+00:06:38,960 --> 00:06:42,560
+accomplishment as you complete each chapter.
+
+67
+00:06:42,560 --> 00:06:50,040
+Creating a unit-wise timetable and alternative method involves creating a well-structured
+
+68
+00:06:50,040 --> 00:06:55,040
+unit-wise timetable. This approach is beneficial for those who prefer a balanced
+
+69
+00:06:55,040 --> 00:07:02,280
+study schedule that accommodates both challenging and easier topics. Here is a
+
+70
+00:07:02,280 --> 00:07:09,160
+simple timetable that you may find relatable and help you cover the syllabus
+
+71
+00:07:09,160 --> 00:07:13,640
+efficiently.
+
+72
+00:07:13,640 --> 00:07:20,640
+To prevent fatigue and maintain motivation, alternate between challenging and easier units.
+
+73
+00:07:20,640 --> 00:07:26,240
+For instance, pair units like teaching aptitude generally easier with research aptitude that is more
+
+74
+00:07:26,240 --> 00:07:31,200
+challenging. The method helps you keep study session balanced and less
+
+75
+00:07:31,200 --> 00:07:37,360
+overwhelming. Units that require heavy memorization such as ICT, people and
+
+76
+00:07:37,360 --> 00:07:42,000
+environment and higher education can be mentally exhausting. Mix this with
+
+77
+00:07:42,000 --> 00:07:47,440
+practical portions like data interpretation and mathematical reasoning
+
+78
+00:07:47,440 --> 00:07:53,000
+to give your brain a break and enhance retention. This strategy helps manage
+
+79
+00:07:53,000 --> 00:08:00,960
+cognitive load and improves overall learning efficiency. Allocate extra time
+
+80
+00:08:00,960 --> 00:08:05,600
+each day to practice questions from practical units such as mathematical
+
+81
+00:08:05,600 --> 00:08:11,280
+reasoning and data interpretation. Adding 30 minutes of practice will help you build
+
+82
+00:08:11,280 --> 00:08:16,880
+proficiency and improve problem solving. Since every student has unique strength
+
+83
+00:08:16,880 --> 00:08:20,520
+and weakness, you might find certain topics easier or more challenging than
+
+84
+00:08:20,520 --> 00:08:25,200
+others. Use the tips shared above to design a timetable that suits your
+
+85
+00:08:25,200 --> 00:08:29,680
+specific need. Adjust the sample timetable based on your comfort level
+
+86
+00:08:29,680 --> 00:08:35,320
+with different units and progress to create a study plan that works best for
+
+87
+00:08:35,320 --> 00:08:41,040
+you. After designing a full syllabus timetable, it is equally
+
+88
+00:08:41,040 --> 00:08:50,560
+important to design a study schedule. Study schedule will help you meet your
+
+89
+00:08:50,560 --> 00:08:55,240
+targets regularly and achieve the overall goals of finishing the syllabus.
+
+90
+00:08:55,240 --> 00:09:01,680
+To complete the next paper 1 syllabus in approximately 30 days, it is advisable
+
+91
+00:09:01,680 --> 00:09:06,720
+to devote at least 4 hours daily to preparation. Here is a recommendation
+
+92
+00:09:06,720 --> 00:09:13,320
+breakdown of your daily study time. If traditional timetable haven't worked for
+
+93
+00:09:13,320 --> 00:09:19,840
+you, here is an alternate approach. To plan your net preparation, instead of
+
+94
+00:09:19,840 --> 00:09:24,920
+focusing on unit wise study plan, adopt a topic wise approach using this three
+
+95
+00:09:24,920 --> 00:09:30,120
+step formula. The foundation of an efficient timetable is understanding how
+
+96
+00:09:30,120 --> 00:09:35,400
+many days you have before the exam. For example, if you have 100 days left, this
+
+97
+00:09:35,400 --> 00:09:40,960
+clarity will help in distributing topics evenly and avoiding last minute
+
+98
+00:09:40,960 --> 00:09:46,720
+cramming. Instead of seeing the syllabus as large, overwhelming units, break it
+
+99
+00:09:46,720 --> 00:09:52,000
+down into simpler, smaller and specific topics. Count how many topics you need to
+
+100
+00:09:52,000 --> 00:09:57,000
+cover from all the 10 units. For example, instead of just thinking about R.A.
+
+101
+00:09:57,000 --> 00:10:09,840
+that is research aptitude, as a whole list out quality qualitative research,
+
+102
+00:10:09,840 --> 00:10:15,120
+sampling and hypothesis testing, this book also uses the same approach by
+
+103
+00:10:15,120 --> 00:10:21,360
+dividing each unit into individual topics. You can easily find a comprehensive
+
+104
+00:10:21,360 --> 00:10:27,920
+list of all the topics in the timetable, which shows what all the topics that you
+
+105
+00:10:27,920 --> 00:10:36,080
+need to study under each unit. Percentage, the type of question I will get in the
+
+106
+00:10:36,080 --> 00:10:41,120
+paper 1, I am discussing that right now. Percentage, 50% question that you see in
+
+107
+00:10:41,120 --> 00:10:46,600
+exam falls into this category of easy questioning, means 50% of the
+
+108
+00:10:46,600 --> 00:10:57,400
+students can easily, 50% of students nain, the paper like have 100 questions, then 50 of them are easy.
+
+109
+00:10:57,400 --> 00:11:02,880
+Strategies to solve, do not feel obligated to solve the exam paper in the order the
+
+110
+00:11:02,880 --> 00:11:07,280
+question are presented. Instead start by answering all the easy questions first.
+
+111
+00:11:07,280 --> 00:11:11,120
+This will give you a stance of accomplishment and boost your confidence
+
+112
+00:11:11,120 --> 00:11:17,000
+when you will feel that you have solved many questions correctly. Additionally,
+
+113
+00:11:17,000 --> 00:11:21,800
+it is important not to note that when we solve easy questions towards the end,
+
+114
+00:11:21,800 --> 00:11:28,280
+we often make errors due to time pressure. We might misread or misinterpret the question
+
+115
+00:11:28,280 --> 00:11:34,120
+or harshly choose an option. Therefore, it is advisable to tackle easy questions
+
+116
+00:11:34,120 --> 00:11:40,000
+from first when you have ample time to read and answer the question carefully.
+
+117
+00:11:40,000 --> 00:11:47,040
+30 of them, 30% of them are false, falls into the category of difficult level questioning.
+
+118
+00:11:47,040 --> 00:11:52,800
+This, these question requires more efforts and critical thinking. You may need to apply
+
+119
+00:11:52,800 --> 00:11:59,200
+your knowledge, analysis and concept and sometimes make educated guesses to arrive
+
+120
+00:11:59,200 --> 00:12:03,880
+at the correct answer. To solve these kind of questions, apply the principle of elimination
+
+121
+00:12:03,880 --> 00:12:09,320
+by first identifying and discarding the option that you know are definitely incorrect.
+
+122
+00:12:09,320 --> 00:12:14,600
+This method simplifies complex questions and improve your chances of selecting right answers.
+
+123
+00:12:14,600 --> 00:12:23,160
+20% of the exams falls under the category of challenging questions. These questions
+
+124
+00:12:23,160 --> 00:12:27,200
+require more efforts and critical thinking. You may need to apply more knowledge,
+
+125
+00:12:27,200 --> 00:12:33,960
+analyze the concept and sometimes make educated guesses to arrive at the correct answers.
+
+126
+00:12:33,960 --> 00:12:47,040
+Feeling anxiety or anxious before an exam is completely normal, you are not alone in this
+
+127
+00:12:47,040 --> 00:12:53,240
+feeling with this way. Every UGC net and students across the country is dealing with similar feeling
+
+128
+00:12:53,240 --> 00:13:03,040
+stress. Remember the mountain you add that says, meaning fear is something everyone experiences.
+
+129
+00:13:03,120 --> 00:13:09,840
+Even the most accomplished individual. But what you do when anxiety strikes in the middle of the
+
+130
+00:13:09,840 --> 00:13:16,480
+exam, here's the quick mantra to regain focus and calm your nerves. Deep breathing, stay hydrated,
+
+131
+00:13:16,480 --> 00:13:22,000
+do not panic, do not panic if you forget. Do not calculate your marks during the exam.
+
+132
+00:13:22,000 --> 00:13:31,280
+Read question twice, answer all questions, use bilingual reading. Prioritize accuracy over speed,
+
+133
+00:13:31,440 --> 00:13:38,600
+avoid mental calculation to prevent errors, avoid doing calculation in your head. Use rough paper
+
+134
+00:13:38,600 --> 00:13:51,520
+for data interpretation and mathematical reasoning questions. Now the syllabus is,
+
+135
+00:13:51,520 --> 00:13:57,480
+unit 1 is teaching aptitude, unit 2 research aptitude, unit 3 comprehension followed by
+
+136
+00:13:57,600 --> 00:14:02,760
+communication, mathematical reasoning and aptitude, logical reasoning, data interpretation,
+
+137
+00:14:02,760 --> 00:14:10,120
+information communication technology that is ICT, people development and environment and last,
+
+138
+00:14:10,120 --> 00:14:15,800
+higher education system. The official net syllabus serves as a broad guideline that
+
+139
+00:14:15,800 --> 00:14:24,280
+does not include every topic that may appear in the exam. While it outlines key subject
+
+140
+00:14:24,440 --> 00:14:31,480
+areas under the 10 unit, the actual question often cover additional concept and topic not
+
+141
+00:14:31,480 --> 00:14:38,080
+explicitly mentioned in the syllabus. To bridge this gap, we have conducted a comprehensive
+
+142
+00:14:38,080 --> 00:14:47,080
+analysis of previous year's questions that is from 2014 to 2025. Based on this analysis,
+
+143
+00:14:47,080 --> 00:14:55,800
+we have compiled an extensive list of topics that are asked in previous papers. Now,
+
+144
+00:14:55,800 --> 00:15:04,600
+I should shut myself off because I am continuously speaking for 15 minutes right now. This may help
+
+145
+00:15:04,600 --> 00:15:09,640
+you. Okay. Garima Singh, over and out.
+
